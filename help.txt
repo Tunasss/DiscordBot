@@ -1,0 +1,24 @@
+/sqrt {n}: tính căn bậc 2 của n
+/pow {x} {y}: tính x^y
+/tinh {biểu thức}: tính giá trị biểu thức
+/divmod {x} {y}: tính mod và div của x đối với y
+/randint {x} {y}: random số từ x đến y
+/timso {tổng} {hiệu}: tìm số lớn và bé biết tổng hiệu
+/giaithua {n}: tính n!
+/tong {n}: tính tổng từ 1 tới n
+/helpme:....
+/sayhi:....
+đừng spam số lớn quá pls(update fix sau)
+
+UPDATE 2.0 ~ ~ ~
+/bin {n}; chuyển n (hệ thập thân) sang hệ nhị phân
+/dec {n}: chuyển n (hệ nhị phân) sang hệ thập phân
+/hex {n}: chuyển n (hệ thập thân) sang hệ thập bát phân
+/singabeautifulsongthatmakeyoucry: find it yourself ¯\_(ツ)_/¯
+
+UPDATE 3.0 PART 1!!! CUSTOM COMMAND ARRIVE
+/create {'?' + tên lệnh} {nội dung}: tạo câu lệnh ?tên với nội dung 
+/del {'?' + tên lệnh}: xoá lệnh
+/list : xem danh sách lệnh
+dùng ? + tên lệnh để dùng lệnh
+/dem {xâu ký tự}: trả về độ dài xâu
